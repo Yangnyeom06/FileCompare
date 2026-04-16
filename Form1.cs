@@ -6,5 +6,10 @@ namespace FileCompare
         {
             InitializeComponent();
         }
+
+        private void btnCopyFromLeft_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
