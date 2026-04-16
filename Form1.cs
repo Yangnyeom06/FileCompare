@@ -36,7 +36,7 @@ namespace FileCompare
                 }
                 if (dlg.ShowDialog() == DialogResult.OK)
                 {
-                    txtLeftDir.Text = dlg.SelectedPath;
+                    txtRightDir.Text = dlg.SelectedPath;
                 }
             }
         }
