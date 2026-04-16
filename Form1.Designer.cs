@@ -182,6 +182,7 @@
             btnCopyFromRight.TabIndex = 4;
             btnCopyFromRight.Text = "폴더선택";
             btnCopyFromRight.UseVisualStyleBackColor = true;
+            btnCopyFromRight.Click += btnCopyFromRight_Click;
             // 
             // panel5
             // 
